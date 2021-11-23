@@ -17,9 +17,20 @@
 
 ### サーバレス
 
-Cloud Run
-Cloud Functions
-App Engine
+- Cloud Run
+  - コンテナベースのサーバーレスコンピューディングサービス
+  - 自作コンテナを、Googleのサーバー上で良しなに動かすことができる
+  - http(s) のWebサイト/APIを手軽に作れる
+  - 自動でスケーリングしてくれる
+− Cloud Functions
+  - 必要に応じて必要な機能だけ呼び出すことができる
+  - イベントを起点としてサーバーサイドロジックを実行する
+  - サーバー管理不要、従量課金、イベント駆動
+  - より簡単に使えるのがCloud Functions、柔軟性・拡張性がより高いのがCloud Run
+- App Engine
+  - PaaS
+  - 自作アプリをGCP管理インフラに簡単にデプロイできる
+  - AWSのElastic Beanstalkと同じ部類
 
 ### ストレージ
 
