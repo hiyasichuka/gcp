@@ -81,5 +81,7 @@ BigQuery
 Data Catalog
 Data Fusion
 
+# 試験ガイド
 
-Dataproc
+[Professional Data Engineer](https://cloud.google.com/certification/guides/data-engineer?hl=ja)
+[Professional Cloud Developer](https://cloud.google.com/certification/guides/cloud-developer?hl=ja)
