@@ -40,38 +40,37 @@
 
 ### ストレージ
 
-Filestore
-Cloud Storage
-Data Transfer
+- Filestore
+- Cloud Storage
+- Data Transfer
 
 ### データベース
 
-Bigtable
-Datastore
-Firestore
-Memorystore
-Spanner
-SQL
+- Bigtable
+- Datastore
+- Firestore
+- Memorystore
+- Spanner
+- SQL
 
 ### 統合
 
-API Gateway
-Cloud Scheduler
-Cloud Tasks
-Workflow
+- API Gateway
+- Cloud Scheduler
+- Cloud Tasks
+- Workflow
 
 ### ネットワーク
 
-VPC Network
-その他諸々
+- VPC Network
 
 ### CI/CD
 
-Cloud Build
-Cloud Deploy
-Container Registry
-Artifact Registry
-Source Repositories
+- Cloud Build
+- Cloud Deploy
+- Container Registry
+- Artifact Registry
+- Source Repositories
 
 ### ビッグデータ
 
