@@ -29,7 +29,9 @@
   - 必要に応じて必要な機能だけ呼び出すことができる
   - イベントを起点としてサーバーサイドロジックを実行する
   - サーバー管理不要、従量課金、イベント駆動
+  - ETL操作に使用。例えば、ストレージにファイルアップロードされると、クラウド関数がトリガーされ、コンテンツを変換してデータベースにアップロードすることができる
   - より簡単に使えるのがCloud Functions、柔軟性・拡張性がより高いのがCloud Run
+  
 
 - App Engine
   - PaaS
@@ -73,13 +75,13 @@ Source Repositories
 
 ### ビッグデータ
 
-Composer
-Dataproc
-Pub/Sub
-Dataflow
-BigQuery
-Data Catalog
-Data Fusion
+- Composer
+- Dataproc
+- Pub/Sub
+- Dataflow
+- BigQuery
+- Data Catalog
+- Data Fusion
 
 # 試験ガイド
 
