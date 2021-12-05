@@ -76,9 +76,12 @@
 ### ビッグデータ
 
 - Composer
+  - Apache Airflowで構築された、フルマネージドのワークフローオーケストレーションサービス
 - Dataproc
+  - Apache Spark、Apache Flink、Prestoなどを実行するための、フルマネージドサービス
 - Pub/Sub
 - Dataflow
+  - サーバーレスかつ高速で、費用対効果の高い、統合されたストリームデータ処理とバッチデータ処理を実現するサービス
 - BigQuery
 - Data Catalog
 - Data Fusion
