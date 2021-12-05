@@ -41,8 +41,9 @@
 ### ストレージ
 
 - Filestore
+  - NoSQLクラウドデータベース 
 - Cloud Storage
-- Data Transfer
+  - オブジェクトストレージ（AWS S3 ,Azure Blob Storageみたいなやつ） 
 
 ### データベース
 
