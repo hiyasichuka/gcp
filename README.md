@@ -90,3 +90,12 @@
 
 [Professional Data Engineer](https://cloud.google.com/certification/guides/data-engineer?hl=ja)
 [Professional Cloud Developer](https://cloud.google.com/certification/guides/cloud-developer?hl=ja)
+
+
+# エコシステム
+
+- DataPrep
+  -　GCP 管理コンソールから、GUI 操作でデータの抽出、加工、ロードが簡単に行える、データプレパレーションツール
+  - サーバーレスで、規模に関係なく稼働する。
+
+
