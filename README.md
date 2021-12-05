@@ -78,7 +78,7 @@
 - Composer
   - Apache Airflowで構築された、フルマネージドのワークフローオーケストレーションサービス
 - Dataproc
-  - Apache Spark、Apache Flink、Prestoなどを実行するための、フルマネージドサービス
+  - Spark、Spark SQL、PySpark、MapReduce、Hive、Pigをサポートする
 - Pub/Sub
 - Dataflow
   - サーバーレスかつ高速で、費用対効果の高い、統合されたストリームデータ処理とバッチデータ処理を実現するサービス
@@ -95,7 +95,7 @@
 # エコシステム
 
 - DataPrep
-  -　GCP 管理コンソールから、GUI 操作でデータの抽出、加工、ロードが簡単に行える、データプレパレーションツール
+  - GCP 管理コンソールから、GUI 操作でデータの抽出、加工、ロードが簡単に行える、データプレパレーションツール
   - サーバーレスで、規模に関係なく稼働する。
 
 
