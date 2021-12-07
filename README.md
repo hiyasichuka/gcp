@@ -75,10 +75,14 @@
 
 ### ビッグデータ
 
-- Composer
+- [Composer](https://cloud.google.com/composer)
   - Apache Airflowで構築された、フルマネージドのワークフローオーケストレーションサービス
+  - Cloud Composerは、Apache Airflow で構築され、Python を使用して運用する、フルマネージドのワークフロー オーケストレーション サービス
+  - GCPプロダクト※とのエンドツーエンドの統合により、ユーザーはパイプラインを自由かつ完全にオーケストレートできる
+    - ※BigQuery、Dataflow、Dataproc、Datastore、Cloud Storage、Pub/Sub、AI Platform など
+  - パイプラインがオンプレミスにあるか、複数のクラウドにまたがっているか、あるいは Google Cloud 内ですべて完結しているかにかかわらず、単一のオーケストレーションツールでワークフローを作成、スケジューリング、モニタリングできる
 - Dataproc
-  - Spark、Spark SQL、PySpark、MapReduce、Hive、Pigをサポートする
+  - Apache Spark、Apache Flink、Prestoをはじめ、30 以上のオープンソースやフレームワークを実行するための、フルマネージドでスケーラビリティの高いサービス
 - Pub/Sub
 - Dataflow
   - サーバーレスかつ高速で、費用対効果の高い、統合されたストリームデータ処理とバッチデータ処理を実現するサービス
